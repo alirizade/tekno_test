@@ -30,6 +30,7 @@ public class deneme_ekrani extends JFrame {
 		
 	}
 	System.out.println("yazdýmmmm");
+	System.out.println("son güncel");
 	}
 
 	/**
