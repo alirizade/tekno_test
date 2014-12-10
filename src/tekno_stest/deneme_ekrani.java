@@ -25,6 +25,11 @@ public class deneme_ekrani extends JFrame {
 				}
 			}
 		});
+	
+	for (int i = 0; i < 5; i++) {
+		
+	}
+	System.out.println("yazdýmmmm");
 	}
 
 	/**
