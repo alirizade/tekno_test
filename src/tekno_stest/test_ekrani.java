@@ -6,6 +6,7 @@ public class test_ekrani {
 		System.out.println("ali ata bak");
 		System.out.println("nerede ula at");
 		System.out.println("nerede ula at");
+		System.out.println("kabul et la");
 	}
 
 }
